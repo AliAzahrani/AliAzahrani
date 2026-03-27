@@ -51,6 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Active Directory Lab
+- <a href="https://github.com/AliAzahrani/Active-Directory-Lab">Active Directory Lab</a>
 - Detection Lab
 - SOC Automation Project
