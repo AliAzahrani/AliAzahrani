@@ -16,8 +16,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | User & Group Managment (IAM)                  | <a href="https://github.com/AliAzahrani/Active-Directory-Lab">Active Directory Lab</a>|
 | Virtualization & VM Troubleshooting           | <a href="https://github.com/AliAzahrani/Active-Directory-Lab">Active Directory Lab</a>|
 | Linux Server Configuration & SSH              | <a href="https://github.com/AliAzahrani/Active-Directory-Lab">Active Directory Lab</a>|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
